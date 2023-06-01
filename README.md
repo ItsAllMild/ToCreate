@@ -19,3 +19,6 @@ Read the following to know:
 6. Settings are important, and should not be messed with. The settings are for personal use. It's obviously made so that users, including you, may have the BEST experience on this app. So, if you don't feel good about the settings, you may change it freely!
 
 7. You can access the GitHub page here: https://github.com/ItsAllMild/ToCreate
+
+# Issues
+1. Due to my low storage, I cannot upload the version: v00.00.02. Sorry
