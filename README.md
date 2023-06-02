@@ -20,5 +20,16 @@ Read the following to know:
 
 7. You can access the GitHub page here: https://github.com/ItsAllMild/ToCreate
 
+8. A UH Error (aka Unhandled Error) is when an error pops-up, and we cannot handle it. If you get it, please contact us.
+
+9. To see errors, you can go to our GitHub page > Issues. If you're a moderator, yes, you can open up an Issue, AS LONG YOU'RE PERMITTED TO DO SO.
+
+10. To see our versions; again, go to our Github page, but go to releases this time. The versions will be marked Pre-build if so, and will have its version on its description and title of that release you view. Please note: If you download a release that's marked Pre-build or Not-Finished-Build (NFB), please expect errors and bugs. Thank you!
+
+11. If you lose any important files that are required, go to the github page and reinstall a better version or the same version. The important files are: Application files, exe files, config files, and more.
+
+12. No, you cannot edit Application files, exe files, config files, and more. They're restricted from you, and shall not be used unless by the computer, because if you mess things up such as moving the files to another folder or somewhere else or editing the files and put random nonsense, the app may not work, and who's that to blame? You! So, please do not mess with our coding, files, or don't try to move them seperated; if you do this, remember, you can reinstall them using our Github page at: https://github.com/ItsAllMild/ToCreate 
+
+
 # Issues
-1. Due to my low storage, I cannot upload the version: v00.00.02. Sorry
+No issues. YAY!
